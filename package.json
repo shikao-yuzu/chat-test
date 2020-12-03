@@ -1,0 +1,25 @@
+{
+  "name": "chat-test",
+  "version": "1.0.0",
+  "description": "Node.jsとsocket.ioの練習",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikao-yuzu/chat-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikao-yuzu/chat-test/issues"
+  },
+  "homepage": "https://github.com/shikao-yuzu/chat-test#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  }
+}
